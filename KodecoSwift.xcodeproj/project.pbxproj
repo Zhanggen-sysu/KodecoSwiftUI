@@ -1,0 +1,867 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		3D2540192AB44257007251AF /* S15C11C12C13.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D2540182AB44257007251AF /* S15C11C12C13.swift */; };
+		3D32D4F12AA9AECB00448DDF /* Group1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D32D4F02AA9AECB00448DDF /* Group1.swift */; };
+		3D32D4F32AA9AEE000448DDF /* Group2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D32D4F22AA9AEE000448DDF /* Group2.swift */; };
+		3D32D4FB2AA9B95B00448DDF /* Group3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D32D4FA2AA9B95B00448DDF /* Group3.swift */; };
+		3D3373792AA9BF8600091B18 /* S11C3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D3373782AA9BF8600091B18 /* S11C3.swift */; };
+		3D33737B2AA9C36100091B18 /* S11C4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D33737A2AA9C36100091B18 /* S11C4.swift */; };
+		3D410C7D2A9D86DC004CE222 /* KodecoSwiftApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D410C7C2A9D86DC004CE222 /* KodecoSwiftApp.swift */; };
+		3D410C7F2A9D86DC004CE222 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D410C7E2A9D86DC004CE222 /* ContentView.swift */; };
+		3D410C812A9D86DE004CE222 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3D410C802A9D86DE004CE222 /* Assets.xcassets */; };
+		3D410C842A9D86DE004CE222 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3D410C832A9D86DE004CE222 /* Preview Assets.xcassets */; };
+		3D410C8B2A9D871D004CE222 /* S1C1C4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D410C8A2A9D871D004CE222 /* S1C1C4.swift */; };
+		3D410C8D2A9D8770004CE222 /* S1C2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D410C8C2A9D8770004CE222 /* S1C2.swift */; };
+		3D410C8F2A9D8798004CE222 /* S1C3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D410C8E2A9D8798004CE222 /* S1C3.swift */; };
+		3D410C912A9D882D004CE222 /* S1C5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D410C902A9D882D004CE222 /* S1C5.swift */; };
+		3D410C932A9D8923004CE222 /* S1C6.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D410C922A9D8923004CE222 /* S1C6.swift */; };
+		3D410C952A9D8988004CE222 /* S1C7.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D410C942A9D8988004CE222 /* S1C7.swift */; };
+		3D410C972A9D89ED004CE222 /* S1C8.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D410C962A9D89ED004CE222 /* S1C8.swift */; };
+		3D410C992A9D8A19004CE222 /* S1C9.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D410C982A9D8A19004CE222 /* S1C9.swift */; };
+		3D410C9B2A9D8D3C004CE222 /* S2C1C2C5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D410C9A2A9D8D3C004CE222 /* S2C1C2C5.swift */; };
+		3D410C9D2A9D8D9E004CE222 /* S2C3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D410C9C2A9D8D9E004CE222 /* S2C3.swift */; };
+		3D410C9F2A9D8E30004CE222 /* S2C4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D410C9E2A9D8E30004CE222 /* S2C4.swift */; };
+		3D410CA12A9D8EED004CE222 /* S2C6.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D410CA02A9D8EED004CE222 /* S2C6.swift */; };
+		3D410CA32A9D8F52004CE222 /* S2C7.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D410CA22A9D8F52004CE222 /* S2C7.swift */; };
+		3D410CA52A9D8FA2004CE222 /* S2C8.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D410CA42A9D8FA2004CE222 /* S2C8.swift */; };
+		3D410CA72A9D8FD2004CE222 /* S2C9.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D410CA62A9D8FD2004CE222 /* S2C9.swift */; };
+		3D410CA92A9D903D004CE222 /* S3C1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D410CA82A9D903D004CE222 /* S3C1.swift */; };
+		3D410CAB2A9D90DA004CE222 /* S3C2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D410CAA2A9D90DA004CE222 /* S3C2.swift */; };
+		3D410CAD2A9D9147004CE222 /* S3C3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D410CAC2A9D9147004CE222 /* S3C3.swift */; };
+		3D410CAF2A9D919F004CE222 /* S3C4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D410CAE2A9D919F004CE222 /* S3C4.swift */; };
+		3D410CB42A9D9242004CE222 /* S3C5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D410CB32A9D9242004CE222 /* S3C5.swift */; };
+		3D410CB62A9D92DA004CE222 /* S3C6.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D410CB52A9D92DA004CE222 /* S3C6.swift */; };
+		3D410CB82A9D952E004CE222 /* S3C7.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D410CB72A9D952E004CE222 /* S3C7.swift */; };
+		3D410CBA2A9D95D9004CE222 /* S3C8.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D410CB92A9D95D9004CE222 /* S3C8.swift */; };
+		3D410CBD2A9D96BE004CE222 /* S4C1C2C3C4C5C6.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D410CBC2A9D96BE004CE222 /* S4C1C2C3C4C5C6.swift */; };
+		3D410CBF2A9D9B0F004CE222 /* Lobster-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3D410CBE2A9D9B0E004CE222 /* Lobster-Regular.ttf */; };
+		3D410CC22A9D9CF7004CE222 /* S4C7C8C9.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D410CC12A9D9CF7004CE222 /* S4C7C8C9.swift */; };
+		3D410CC52A9D9E94004CE222 /* S5C1C2C3C4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D410CC42A9D9E94004CE222 /* S5C1C2C3C4.swift */; };
+		3D410CC72A9DA159004CE222 /* S5C5C6.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D410CC62A9DA159004CE222 /* S5C5C6.swift */; };
+		3D410CC92A9DA232004CE222 /* S5C7.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D410CC82A9DA232004CE222 /* S5C7.swift */; };
+		3D410CCB2A9DA33C004CE222 /* S5C8.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D410CCA2A9DA33C004CE222 /* S5C8.swift */; };
+		3D410CCD2A9DA384004CE222 /* S5C9.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D410CCC2A9DA384004CE222 /* S5C9.swift */; };
+		3D410CCF2A9DA3FD004CE222 /* S5C10.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D410CCE2A9DA3FD004CE222 /* S5C10.swift */; };
+		3D8AAE662AB2AAA4002707D0 /* S12C7C8C9.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D8AAE652AB2AAA4002707D0 /* S12C7C8C9.swift */; };
+		3D8AAE772AB2DD2F002707D0 /* S12C10C11.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D8AAE762AB2DD2F002707D0 /* S12C10C11.swift */; };
+		3D8AAE7D2AB2F7AE002707D0 /* S13C1C2C3C4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D8AAE7C2AB2F7AE002707D0 /* S13C1C2C3C4.swift */; };
+		3D8AAE7F2AB302D4002707D0 /* S13C5C6C7.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D8AAE7E2AB302D4002707D0 /* S13C5C6C7.swift */; };
+		3D8AAE812AB31142002707D0 /* S13C8C9.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D8AAE802AB31142002707D0 /* S13C8C9.swift */; };
+		3D8AAE832AB32A1B002707D0 /* S13C10.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D8AAE822AB32A1B002707D0 /* S13C10.swift */; };
+		3D8AAE862AB32AD1002707D0 /* S14C1C2C3C4C5C6C7.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D8AAE852AB32AD1002707D0 /* S14C1C2C3C4C5C6C7.swift */; };
+		3D8AAE8B2AB3FD0B002707D0 /* S14C8C9.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D8AAE8A2AB3FD0B002707D0 /* S14C8C9.swift */; };
+		3D8AAE902AB40CC8002707D0 /* S14C10.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D8AAE8F2AB40CC8002707D0 /* S14C10.swift */; };
+		3D8AAE932AB42A78002707D0 /* S15C1C2C3C4C6.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D8AAE922AB42A78002707D0 /* S15C1C2C3C4C6.swift */; };
+		3D8AAE972AB43205002707D0 /* S15C5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D8AAE962AB43205002707D0 /* S15C5.swift */; };
+		3D8AAE992AB43BB0002707D0 /* S15C7C8C9.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D8AAE982AB43BB0002707D0 /* S15C7C8C9.swift */; };
+		3D8AAE9B2AB43DF5002707D0 /* S15C10.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D8AAE9A2AB43DF5002707D0 /* S15C10.swift */; };
+		3DB080FE2AA9C9C7002ED905 /* S11C5C6.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DB080FD2AA9C9C7002ED905 /* S11C5C6.swift */; };
+		3DB081002AA9CC76002ED905 /* S11C7.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DB080FF2AA9CC76002ED905 /* S11C7.swift */; };
+		3DB081022AA9CE1F002ED905 /* S11C8C9.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DB081012AA9CE1F002ED905 /* S11C8C9.swift */; };
+		3DB081042AA9D6C5002ED905 /* S11C10.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DB081032AA9D6C5002ED905 /* S11C10.swift */; };
+		3DB081102AA9F18E002ED905 /* S12C1C2C3C4C5C6.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DB0810F2AA9F18E002ED905 /* S12C1C2C3C4C5C6.swift */; };
+		3DC1A0DE2A9DC5130060582C /* S5C11.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DC1A0DD2A9DC5130060582C /* S5C11.swift */; };
+		3DC1A0E12A9DC6650060582C /* S6C1C2C3C4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DC1A0E02A9DC6650060582C /* S6C1C2C3C4.swift */; };
+		3DC1A0E32A9DC9860060582C /* S6C5C6C7C8.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DC1A0E22A9DC9860060582C /* S6C5C6C7C8.swift */; };
+		3DC1A0E72A9DDBF30060582C /* S6C10.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DC1A0E62A9DDBF30060582C /* S6C10.swift */; };
+		3DC1A0E92A9DDD850060582C /* S6C9.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DC1A0E82A9DDD850060582C /* S6C9.swift */; };
+		3DC1A0EC2A9DE6BE0060582C /* S7C1C2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DC1A0EB2A9DE6BE0060582C /* S7C1C2.swift */; };
+		3DC1A0F02A9DF3010060582C /* S7C3C4C5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DC1A0EF2A9DF3010060582C /* S7C3C4C5.swift */; };
+		3DC1A0F22A9EDA8B0060582C /* S7C6C7.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DC1A0F12A9EDA8B0060582C /* S7C6C7.swift */; };
+		3DC1A0F42A9EF0FD0060582C /* S7C8C9.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DC1A0F32A9EF0FD0060582C /* S7C8C9.swift */; };
+		3DC1A0F62A9F0F990060582C /* S7C10.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DC1A0F52A9F0F990060582C /* S7C10.swift */; };
+		3DC1A0F92A9F525B0060582C /* S8C2C3C4C5C6C7C8.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DC1A0F82A9F525B0060582C /* S8C2C3C4C5C6C7C8.swift */; };
+		3DC1A0FC2AA030EE0060582C /* LookinServer in Frameworks */ = {isa = PBXBuildFile; productRef = 3DC1A0FB2AA030EE0060582C /* LookinServer */; };
+		3DC1A0FE2AA03C930060582C /* S8C9.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DC1A0FD2AA03C930060582C /* S8C9.swift */; };
+		3DC1A1012AA040890060582C /* S9C1C2C3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DC1A1002AA040890060582C /* S9C1C2C3.swift */; };
+		3DC1A1032AA0444E0060582C /* S9C4C5C6.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DC1A1022AA0444E0060582C /* S9C4C5C6.swift */; };
+		3DC1A1052AA06EFC0060582C /* S9C7C8C9C10.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DC1A1042AA06EFC0060582C /* S9C7C8C9C10.swift */; };
+		3DC1A1082AA076230060582C /* S10C1C2C3C4C9.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DC1A1072AA076230060582C /* S10C1C2C3C4C9.swift */; };
+		3DE267122AA1DCB0006588D5 /* S10C5C6C7.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DE267112AA1DCB0006588D5 /* S10C5C6C7.swift */; };
+		3DE267172AA1E6FE006588D5 /* S10C8.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DE267162AA1E6FE006588D5 /* S10C8.swift */; };
+		3DE2671A2AA1EECF006588D5 /* S11C1C2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DE267192AA1EECF006588D5 /* S11C1C2.swift */; };
+		3DE58FC72AB84F1100F291DC /* flyerdie.wav in Resources */ = {isa = PBXBuildFile; fileRef = 3DE58FBE2AB84F1000F291DC /* flyerdie.wav */; };
+		3DE58FC82AB84F1100F291DC /* PocketCyclopsLvl1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3DE58FBF2AB84F1000F291DC /* PocketCyclopsLvl1.mp3 */; };
+		3DE58FC92AB84F1100F291DC /* button.wav in Resources */ = {isa = PBXBuildFile; fileRef = 3DE58FC02AB84F1000F291DC /* button.wav */; };
+		3DE58FCA2AB84F1100F291DC /* bounce.wav in Resources */ = {isa = PBXBuildFile; fileRef = 3DE58FC12AB84F1000F291DC /* bounce.wav */; };
+		3DE58FCB2AB84F1100F291DC /* crawler_die.wav in Resources */ = {isa = PBXBuildFile; fileRef = 3DE58FC22AB84F1000F291DC /* crawler_die.wav */; };
+		3DE58FCC2AB84F1100F291DC /* crawler_jump.wav in Resources */ = {isa = PBXBuildFile; fileRef = 3DE58FC32AB84F1000F291DC /* crawler_jump.wav */; };
+		3DE58FCD2AB84F1100F291DC /* flyerattack.wav in Resources */ = {isa = PBXBuildFile; fileRef = 3DE58FC42AB84F1000F291DC /* flyerattack.wav */; };
+		3DE58FCE2AB84F1100F291DC /* BookTrailer.m4v in Resources */ = {isa = PBXBuildFile; fileRef = 3DE58FC52AB84F1100F291DC /* BookTrailer.m4v */; };
+		3DE58FCF2AB84F1100F291DC /* flyercloseeye.wav in Resources */ = {isa = PBXBuildFile; fileRef = 3DE58FC62AB84F1100F291DC /* flyercloseeye.wav */; };
+		3DE58FD32AB84F6A00F291DC /* S16C1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DE58FD22AB84F6A00F291DC /* S16C1.swift */; };
+		3DE58FD52AB8524C00F291DC /* S16C2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DE58FD42AB8524C00F291DC /* S16C2.swift */; };
+		3DE58FD72AB853DE00F291DC /* S16C3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DE58FD62AB853DE00F291DC /* S16C3.swift */; };
+		3DE58FD92AB86CA800F291DC /* S16C4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DE58FD82AB86CA800F291DC /* S16C4.swift */; };
+		3DE58FDB2AB870EC00F291DC /* S16C5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DE58FDA2AB870EC00F291DC /* S16C5.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		3D2540182AB44257007251AF /* S15C11C12C13.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S15C11C12C13.swift; sourceTree = "<group>"; };
+		3D32D4F02AA9AECB00448DDF /* Group1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Group1.swift; sourceTree = "<group>"; };
+		3D32D4F22AA9AEE000448DDF /* Group2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Group2.swift; sourceTree = "<group>"; };
+		3D32D4FA2AA9B95B00448DDF /* Group3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Group3.swift; sourceTree = "<group>"; };
+		3D3373782AA9BF8600091B18 /* S11C3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S11C3.swift; sourceTree = "<group>"; };
+		3D33737A2AA9C36100091B18 /* S11C4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S11C4.swift; sourceTree = "<group>"; };
+		3D410C792A9D86DC004CE222 /* KodecoSwift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = KodecoSwift.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3D410C7C2A9D86DC004CE222 /* KodecoSwiftApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KodecoSwiftApp.swift; sourceTree = "<group>"; };
+		3D410C7E2A9D86DC004CE222 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		3D410C802A9D86DE004CE222 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		3D410C832A9D86DE004CE222 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		3D410C8A2A9D871D004CE222 /* S1C1C4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S1C1C4.swift; sourceTree = "<group>"; };
+		3D410C8C2A9D8770004CE222 /* S1C2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S1C2.swift; sourceTree = "<group>"; };
+		3D410C8E2A9D8798004CE222 /* S1C3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S1C3.swift; sourceTree = "<group>"; };
+		3D410C902A9D882D004CE222 /* S1C5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S1C5.swift; sourceTree = "<group>"; };
+		3D410C922A9D8923004CE222 /* S1C6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S1C6.swift; sourceTree = "<group>"; };
+		3D410C942A9D8988004CE222 /* S1C7.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S1C7.swift; sourceTree = "<group>"; };
+		3D410C962A9D89ED004CE222 /* S1C8.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S1C8.swift; sourceTree = "<group>"; };
+		3D410C982A9D8A19004CE222 /* S1C9.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S1C9.swift; sourceTree = "<group>"; };
+		3D410C9A2A9D8D3C004CE222 /* S2C1C2C5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S2C1C2C5.swift; sourceTree = "<group>"; };
+		3D410C9C2A9D8D9E004CE222 /* S2C3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S2C3.swift; sourceTree = "<group>"; };
+		3D410C9E2A9D8E30004CE222 /* S2C4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S2C4.swift; sourceTree = "<group>"; };
+		3D410CA02A9D8EED004CE222 /* S2C6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S2C6.swift; sourceTree = "<group>"; };
+		3D410CA22A9D8F52004CE222 /* S2C7.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S2C7.swift; sourceTree = "<group>"; };
+		3D410CA42A9D8FA2004CE222 /* S2C8.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S2C8.swift; sourceTree = "<group>"; };
+		3D410CA62A9D8FD2004CE222 /* S2C9.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S2C9.swift; sourceTree = "<group>"; };
+		3D410CA82A9D903D004CE222 /* S3C1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S3C1.swift; sourceTree = "<group>"; };
+		3D410CAA2A9D90DA004CE222 /* S3C2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S3C2.swift; sourceTree = "<group>"; };
+		3D410CAC2A9D9147004CE222 /* S3C3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S3C3.swift; sourceTree = "<group>"; };
+		3D410CAE2A9D919F004CE222 /* S3C4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S3C4.swift; sourceTree = "<group>"; };
+		3D410CB32A9D9242004CE222 /* S3C5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S3C5.swift; sourceTree = "<group>"; };
+		3D410CB52A9D92DA004CE222 /* S3C6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S3C6.swift; sourceTree = "<group>"; };
+		3D410CB72A9D952E004CE222 /* S3C7.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S3C7.swift; sourceTree = "<group>"; };
+		3D410CB92A9D95D9004CE222 /* S3C8.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S3C8.swift; sourceTree = "<group>"; };
+		3D410CBC2A9D96BE004CE222 /* S4C1C2C3C4C5C6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S4C1C2C3C4C5C6.swift; sourceTree = "<group>"; };
+		3D410CBE2A9D9B0E004CE222 /* Lobster-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lobster-Regular.ttf"; sourceTree = "<group>"; };
+		3D410CC02A9D9B75004CE222 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		3D410CC12A9D9CF7004CE222 /* S4C7C8C9.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S4C7C8C9.swift; sourceTree = "<group>"; };
+		3D410CC42A9D9E94004CE222 /* S5C1C2C3C4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S5C1C2C3C4.swift; sourceTree = "<group>"; };
+		3D410CC62A9DA159004CE222 /* S5C5C6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S5C5C6.swift; sourceTree = "<group>"; };
+		3D410CC82A9DA232004CE222 /* S5C7.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S5C7.swift; sourceTree = "<group>"; };
+		3D410CCA2A9DA33C004CE222 /* S5C8.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S5C8.swift; sourceTree = "<group>"; };
+		3D410CCC2A9DA384004CE222 /* S5C9.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S5C9.swift; sourceTree = "<group>"; };
+		3D410CCE2A9DA3FD004CE222 /* S5C10.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S5C10.swift; sourceTree = "<group>"; };
+		3D8AAE652AB2AAA4002707D0 /* S12C7C8C9.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S12C7C8C9.swift; sourceTree = "<group>"; };
+		3D8AAE762AB2DD2F002707D0 /* S12C10C11.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S12C10C11.swift; sourceTree = "<group>"; };
+		3D8AAE7C2AB2F7AE002707D0 /* S13C1C2C3C4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S13C1C2C3C4.swift; sourceTree = "<group>"; };
+		3D8AAE7E2AB302D4002707D0 /* S13C5C6C7.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S13C5C6C7.swift; sourceTree = "<group>"; };
+		3D8AAE802AB31142002707D0 /* S13C8C9.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S13C8C9.swift; sourceTree = "<group>"; };
+		3D8AAE822AB32A1B002707D0 /* S13C10.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S13C10.swift; sourceTree = "<group>"; };
+		3D8AAE852AB32AD1002707D0 /* S14C1C2C3C4C5C6C7.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S14C1C2C3C4C5C6C7.swift; sourceTree = "<group>"; };
+		3D8AAE8A2AB3FD0B002707D0 /* S14C8C9.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S14C8C9.swift; sourceTree = "<group>"; };
+		3D8AAE8F2AB40CC8002707D0 /* S14C10.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S14C10.swift; sourceTree = "<group>"; };
+		3D8AAE922AB42A78002707D0 /* S15C1C2C3C4C6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S15C1C2C3C4C6.swift; sourceTree = "<group>"; };
+		3D8AAE962AB43205002707D0 /* S15C5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S15C5.swift; sourceTree = "<group>"; };
+		3D8AAE982AB43BB0002707D0 /* S15C7C8C9.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S15C7C8C9.swift; sourceTree = "<group>"; };
+		3D8AAE9A2AB43DF5002707D0 /* S15C10.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S15C10.swift; sourceTree = "<group>"; };
+		3DB080FD2AA9C9C7002ED905 /* S11C5C6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S11C5C6.swift; sourceTree = "<group>"; };
+		3DB080FF2AA9CC76002ED905 /* S11C7.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S11C7.swift; sourceTree = "<group>"; };
+		3DB081012AA9CE1F002ED905 /* S11C8C9.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S11C8C9.swift; sourceTree = "<group>"; };
+		3DB081032AA9D6C5002ED905 /* S11C10.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S11C10.swift; sourceTree = "<group>"; };
+		3DB0810F2AA9F18E002ED905 /* S12C1C2C3C4C5C6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S12C1C2C3C4C5C6.swift; sourceTree = "<group>"; };
+		3DC1A0DD2A9DC5130060582C /* S5C11.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S5C11.swift; sourceTree = "<group>"; };
+		3DC1A0E02A9DC6650060582C /* S6C1C2C3C4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S6C1C2C3C4.swift; sourceTree = "<group>"; };
+		3DC1A0E22A9DC9860060582C /* S6C5C6C7C8.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S6C5C6C7C8.swift; sourceTree = "<group>"; };
+		3DC1A0E62A9DDBF30060582C /* S6C10.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S6C10.swift; sourceTree = "<group>"; };
+		3DC1A0E82A9DDD850060582C /* S6C9.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S6C9.swift; sourceTree = "<group>"; };
+		3DC1A0EB2A9DE6BE0060582C /* S7C1C2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S7C1C2.swift; sourceTree = "<group>"; };
+		3DC1A0EF2A9DF3010060582C /* S7C3C4C5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S7C3C4C5.swift; sourceTree = "<group>"; };
+		3DC1A0F12A9EDA8B0060582C /* S7C6C7.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S7C6C7.swift; sourceTree = "<group>"; };
+		3DC1A0F32A9EF0FD0060582C /* S7C8C9.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S7C8C9.swift; sourceTree = "<group>"; };
+		3DC1A0F52A9F0F990060582C /* S7C10.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S7C10.swift; sourceTree = "<group>"; };
+		3DC1A0F82A9F525B0060582C /* S8C2C3C4C5C6C7C8.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S8C2C3C4C5C6C7C8.swift; sourceTree = "<group>"; };
+		3DC1A0FD2AA03C930060582C /* S8C9.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S8C9.swift; sourceTree = "<group>"; };
+		3DC1A1002AA040890060582C /* S9C1C2C3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S9C1C2C3.swift; sourceTree = "<group>"; };
+		3DC1A1022AA0444E0060582C /* S9C4C5C6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S9C4C5C6.swift; sourceTree = "<group>"; };
+		3DC1A1042AA06EFC0060582C /* S9C7C8C9C10.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S9C7C8C9C10.swift; sourceTree = "<group>"; };
+		3DC1A1072AA076230060582C /* S10C1C2C3C4C9.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S10C1C2C3C4C9.swift; sourceTree = "<group>"; };
+		3DE267112AA1DCB0006588D5 /* S10C5C6C7.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S10C5C6C7.swift; sourceTree = "<group>"; };
+		3DE267162AA1E6FE006588D5 /* S10C8.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S10C8.swift; sourceTree = "<group>"; };
+		3DE267192AA1EECF006588D5 /* S11C1C2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S11C1C2.swift; sourceTree = "<group>"; };
+		3DE58FBE2AB84F1000F291DC /* flyerdie.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = flyerdie.wav; sourceTree = "<group>"; };
+		3DE58FBF2AB84F1000F291DC /* PocketCyclopsLvl1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = PocketCyclopsLvl1.mp3; sourceTree = "<group>"; };
+		3DE58FC02AB84F1000F291DC /* button.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = button.wav; sourceTree = "<group>"; };
+		3DE58FC12AB84F1000F291DC /* bounce.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = bounce.wav; sourceTree = "<group>"; };
+		3DE58FC22AB84F1000F291DC /* crawler_die.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = crawler_die.wav; sourceTree = "<group>"; };
+		3DE58FC32AB84F1000F291DC /* crawler_jump.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = crawler_jump.wav; sourceTree = "<group>"; };
+		3DE58FC42AB84F1000F291DC /* flyerattack.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = flyerattack.wav; sourceTree = "<group>"; };
+		3DE58FC52AB84F1100F291DC /* BookTrailer.m4v */ = {isa = PBXFileReference; lastKnownFileType = file; path = BookTrailer.m4v; sourceTree = "<group>"; };
+		3DE58FC62AB84F1100F291DC /* flyercloseeye.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = flyercloseeye.wav; sourceTree = "<group>"; };
+		3DE58FD22AB84F6A00F291DC /* S16C1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S16C1.swift; sourceTree = "<group>"; };
+		3DE58FD42AB8524C00F291DC /* S16C2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S16C2.swift; sourceTree = "<group>"; };
+		3DE58FD62AB853DE00F291DC /* S16C3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S16C3.swift; sourceTree = "<group>"; };
+		3DE58FD82AB86CA800F291DC /* S16C4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S16C4.swift; sourceTree = "<group>"; };
+		3DE58FDA2AB870EC00F291DC /* S16C5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S16C5.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		3D410C762A9D86DC004CE222 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3DC1A0FC2AA030EE0060582C /* LookinServer in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		3D410C702A9D86DC004CE222 = {
+			isa = PBXGroup;
+			children = (
+				3D410C7B2A9D86DC004CE222 /* KodecoSwift */,
+				3D410C7A2A9D86DC004CE222 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		3D410C7A2A9D86DC004CE222 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				3D410C792A9D86DC004CE222 /* KodecoSwift.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		3D410C7B2A9D86DC004CE222 /* KodecoSwift */ = {
+			isa = PBXGroup;
+			children = (
+				3DE58FD02AB84F2400F291DC /* Assets */,
+				3D410C7E2A9D86DC004CE222 /* ContentView.swift */,
+				3D32D4F02AA9AECB00448DDF /* Group1.swift */,
+				3D32D4F22AA9AEE000448DDF /* Group2.swift */,
+				3D32D4FA2AA9B95B00448DDF /* Group3.swift */,
+				3D410CC02A9D9B75004CE222 /* Info.plist */,
+				3D410C7C2A9D86DC004CE222 /* KodecoSwiftApp.swift */,
+				3D410CBE2A9D9B0E004CE222 /* Lobster-Regular.ttf */,
+				3D410C822A9D86DE004CE222 /* Preview Content */,
+				3D410CB02A9D9203004CE222 /* S1 */,
+				3D410CB12A9D9212004CE222 /* S2 */,
+				3D410CB22A9D9228004CE222 /* S3 */,
+				3D410CBB2A9D96A6004CE222 /* S4 */,
+				3D410CC32A9D9E74004CE222 /* S5 */,
+				3DC1A0DF2A9DC6530060582C /* S6 */,
+				3DC1A0EA2A9DE6810060582C /* S7 */,
+				3DC1A0F72A9F50750060582C /* S8 */,
+				3DC1A0FF2AA03E640060582C /* S9 */,
+				3DC1A1062AA0760D0060582C /* S10 */,
+				3DE267182AA1EE62006588D5 /* S11 */,
+				3DB0810E2AA9F16A002ED905 /* S12 */,
+				3D8AAE782AB2E2F3002707D0 /* S13 */,
+				3D8AAE842AB32AB8002707D0 /* S14 */,
+				3D8AAE912AB42A51002707D0 /* S15 */,
+				3DE58FD12AB84F4000F291DC /* S16 */,
+			);
+			path = KodecoSwift;
+			sourceTree = "<group>";
+		};
+		3D410C822A9D86DE004CE222 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				3D410C832A9D86DE004CE222 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		3D410CB02A9D9203004CE222 /* S1 */ = {
+			isa = PBXGroup;
+			children = (
+				3D410C8A2A9D871D004CE222 /* S1C1C4.swift */,
+				3D410C8C2A9D8770004CE222 /* S1C2.swift */,
+				3D410C8E2A9D8798004CE222 /* S1C3.swift */,
+				3D410C902A9D882D004CE222 /* S1C5.swift */,
+				3D410C922A9D8923004CE222 /* S1C6.swift */,
+				3D410C942A9D8988004CE222 /* S1C7.swift */,
+				3D410C962A9D89ED004CE222 /* S1C8.swift */,
+				3D410C982A9D8A19004CE222 /* S1C9.swift */,
+			);
+			path = S1;
+			sourceTree = "<group>";
+		};
+		3D410CB12A9D9212004CE222 /* S2 */ = {
+			isa = PBXGroup;
+			children = (
+				3D410C9A2A9D8D3C004CE222 /* S2C1C2C5.swift */,
+				3D410C9C2A9D8D9E004CE222 /* S2C3.swift */,
+				3D410C9E2A9D8E30004CE222 /* S2C4.swift */,
+				3D410CA02A9D8EED004CE222 /* S2C6.swift */,
+				3D410CA22A9D8F52004CE222 /* S2C7.swift */,
+				3D410CA42A9D8FA2004CE222 /* S2C8.swift */,
+				3D410CA62A9D8FD2004CE222 /* S2C9.swift */,
+			);
+			path = S2;
+			sourceTree = "<group>";
+		};
+		3D410CB22A9D9228004CE222 /* S3 */ = {
+			isa = PBXGroup;
+			children = (
+				3D410CA82A9D903D004CE222 /* S3C1.swift */,
+				3D410CAA2A9D90DA004CE222 /* S3C2.swift */,
+				3D410CAC2A9D9147004CE222 /* S3C3.swift */,
+				3D410CAE2A9D919F004CE222 /* S3C4.swift */,
+				3D410CB32A9D9242004CE222 /* S3C5.swift */,
+				3D410CB52A9D92DA004CE222 /* S3C6.swift */,
+				3D410CB72A9D952E004CE222 /* S3C7.swift */,
+				3D410CB92A9D95D9004CE222 /* S3C8.swift */,
+			);
+			path = S3;
+			sourceTree = "<group>";
+		};
+		3D410CBB2A9D96A6004CE222 /* S4 */ = {
+			isa = PBXGroup;
+			children = (
+				3D410CBC2A9D96BE004CE222 /* S4C1C2C3C4C5C6.swift */,
+				3D410CC12A9D9CF7004CE222 /* S4C7C8C9.swift */,
+			);
+			path = S4;
+			sourceTree = "<group>";
+		};
+		3D410CC32A9D9E74004CE222 /* S5 */ = {
+			isa = PBXGroup;
+			children = (
+				3D410CC42A9D9E94004CE222 /* S5C1C2C3C4.swift */,
+				3D410CC62A9DA159004CE222 /* S5C5C6.swift */,
+				3D410CC82A9DA232004CE222 /* S5C7.swift */,
+				3D410CCA2A9DA33C004CE222 /* S5C8.swift */,
+				3D410CCC2A9DA384004CE222 /* S5C9.swift */,
+				3D410CCE2A9DA3FD004CE222 /* S5C10.swift */,
+				3DC1A0DD2A9DC5130060582C /* S5C11.swift */,
+			);
+			path = S5;
+			sourceTree = "<group>";
+		};
+		3D8AAE782AB2E2F3002707D0 /* S13 */ = {
+			isa = PBXGroup;
+			children = (
+				3D8AAE7C2AB2F7AE002707D0 /* S13C1C2C3C4.swift */,
+				3D8AAE7E2AB302D4002707D0 /* S13C5C6C7.swift */,
+				3D8AAE802AB31142002707D0 /* S13C8C9.swift */,
+				3D8AAE822AB32A1B002707D0 /* S13C10.swift */,
+			);
+			path = S13;
+			sourceTree = "<group>";
+		};
+		3D8AAE842AB32AB8002707D0 /* S14 */ = {
+			isa = PBXGroup;
+			children = (
+				3D8AAE852AB32AD1002707D0 /* S14C1C2C3C4C5C6C7.swift */,
+				3D8AAE8A2AB3FD0B002707D0 /* S14C8C9.swift */,
+				3D8AAE8F2AB40CC8002707D0 /* S14C10.swift */,
+			);
+			path = S14;
+			sourceTree = "<group>";
+		};
+		3D8AAE912AB42A51002707D0 /* S15 */ = {
+			isa = PBXGroup;
+			children = (
+				3D8AAE922AB42A78002707D0 /* S15C1C2C3C4C6.swift */,
+				3D8AAE962AB43205002707D0 /* S15C5.swift */,
+				3D8AAE982AB43BB0002707D0 /* S15C7C8C9.swift */,
+				3D8AAE9A2AB43DF5002707D0 /* S15C10.swift */,
+				3D2540182AB44257007251AF /* S15C11C12C13.swift */,
+			);
+			path = S15;
+			sourceTree = "<group>";
+		};
+		3DB0810E2AA9F16A002ED905 /* S12 */ = {
+			isa = PBXGroup;
+			children = (
+				3DB0810F2AA9F18E002ED905 /* S12C1C2C3C4C5C6.swift */,
+				3D8AAE652AB2AAA4002707D0 /* S12C7C8C9.swift */,
+				3D8AAE762AB2DD2F002707D0 /* S12C10C11.swift */,
+			);
+			path = S12;
+			sourceTree = "<group>";
+		};
+		3DC1A0DF2A9DC6530060582C /* S6 */ = {
+			isa = PBXGroup;
+			children = (
+				3DC1A0E02A9DC6650060582C /* S6C1C2C3C4.swift */,
+				3DC1A0E22A9DC9860060582C /* S6C5C6C7C8.swift */,
+				3DC1A0E82A9DDD850060582C /* S6C9.swift */,
+				3DC1A0E62A9DDBF30060582C /* S6C10.swift */,
+			);
+			path = S6;
+			sourceTree = "<group>";
+		};
+		3DC1A0EA2A9DE6810060582C /* S7 */ = {
+			isa = PBXGroup;
+			children = (
+				3DC1A0EB2A9DE6BE0060582C /* S7C1C2.swift */,
+				3DC1A0EF2A9DF3010060582C /* S7C3C4C5.swift */,
+				3DC1A0F12A9EDA8B0060582C /* S7C6C7.swift */,
+				3DC1A0F32A9EF0FD0060582C /* S7C8C9.swift */,
+				3DC1A0F52A9F0F990060582C /* S7C10.swift */,
+			);
+			path = S7;
+			sourceTree = "<group>";
+		};
+		3DC1A0F72A9F50750060582C /* S8 */ = {
+			isa = PBXGroup;
+			children = (
+				3DC1A0F82A9F525B0060582C /* S8C2C3C4C5C6C7C8.swift */,
+				3DC1A0FD2AA03C930060582C /* S8C9.swift */,
+			);
+			path = S8;
+			sourceTree = "<group>";
+		};
+		3DC1A0FF2AA03E640060582C /* S9 */ = {
+			isa = PBXGroup;
+			children = (
+				3DC1A1002AA040890060582C /* S9C1C2C3.swift */,
+				3DC1A1022AA0444E0060582C /* S9C4C5C6.swift */,
+				3DC1A1042AA06EFC0060582C /* S9C7C8C9C10.swift */,
+			);
+			path = S9;
+			sourceTree = "<group>";
+		};
+		3DC1A1062AA0760D0060582C /* S10 */ = {
+			isa = PBXGroup;
+			children = (
+				3DC1A1072AA076230060582C /* S10C1C2C3C4C9.swift */,
+				3DE267112AA1DCB0006588D5 /* S10C5C6C7.swift */,
+				3DE267162AA1E6FE006588D5 /* S10C8.swift */,
+			);
+			path = S10;
+			sourceTree = "<group>";
+		};
+		3DE267182AA1EE62006588D5 /* S11 */ = {
+			isa = PBXGroup;
+			children = (
+				3DE267192AA1EECF006588D5 /* S11C1C2.swift */,
+				3D3373782AA9BF8600091B18 /* S11C3.swift */,
+				3D33737A2AA9C36100091B18 /* S11C4.swift */,
+				3DB080FD2AA9C9C7002ED905 /* S11C5C6.swift */,
+				3DB080FF2AA9CC76002ED905 /* S11C7.swift */,
+				3DB081012AA9CE1F002ED905 /* S11C8C9.swift */,
+				3DB081032AA9D6C5002ED905 /* S11C10.swift */,
+			);
+			path = S11;
+			sourceTree = "<group>";
+		};
+		3DE58FD02AB84F2400F291DC /* Assets */ = {
+			isa = PBXGroup;
+			children = (
+				3DE58FC52AB84F1100F291DC /* BookTrailer.m4v */,
+				3DE58FC12AB84F1000F291DC /* bounce.wav */,
+				3DE58FC02AB84F1000F291DC /* button.wav */,
+				3DE58FC22AB84F1000F291DC /* crawler_die.wav */,
+				3DE58FC32AB84F1000F291DC /* crawler_jump.wav */,
+				3DE58FC42AB84F1000F291DC /* flyerattack.wav */,
+				3DE58FC62AB84F1100F291DC /* flyercloseeye.wav */,
+				3DE58FBE2AB84F1000F291DC /* flyerdie.wav */,
+				3DE58FBF2AB84F1000F291DC /* PocketCyclopsLvl1.mp3 */,
+				3D410C802A9D86DE004CE222 /* Assets.xcassets */,
+			);
+			path = Assets;
+			sourceTree = "<group>";
+		};
+		3DE58FD12AB84F4000F291DC /* S16 */ = {
+			isa = PBXGroup;
+			children = (
+				3DE58FD22AB84F6A00F291DC /* S16C1.swift */,
+				3DE58FD42AB8524C00F291DC /* S16C2.swift */,
+				3DE58FD62AB853DE00F291DC /* S16C3.swift */,
+				3DE58FD82AB86CA800F291DC /* S16C4.swift */,
+				3DE58FDA2AB870EC00F291DC /* S16C5.swift */,
+			);
+			path = S16;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		3D410C782A9D86DC004CE222 /* KodecoSwift */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3D410C872A9D86DE004CE222 /* Build configuration list for PBXNativeTarget "KodecoSwift" */;
+			buildPhases = (
+				3D410C752A9D86DC004CE222 /* Sources */,
+				3D410C762A9D86DC004CE222 /* Frameworks */,
+				3D410C772A9D86DC004CE222 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = KodecoSwift;
+			packageProductDependencies = (
+				3DC1A0FB2AA030EE0060582C /* LookinServer */,
+			);
+			productName = KodecoSwift;
+			productReference = 3D410C792A9D86DC004CE222 /* KodecoSwift.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		3D410C712A9D86DC004CE222 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1420;
+				LastUpgradeCheck = 1420;
+				TargetAttributes = {
+					3D410C782A9D86DC004CE222 = {
+						CreatedOnToolsVersion = 14.2;
+					};
+				};
+			};
+			buildConfigurationList = 3D410C742A9D86DC004CE222 /* Build configuration list for PBXProject "KodecoSwift" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 3D410C702A9D86DC004CE222;
+			packageReferences = (
+				3DC1A0FA2AA030EE0060582C /* XCRemoteSwiftPackageReference "LookinServer" */,
+			);
+			productRefGroup = 3D410C7A2A9D86DC004CE222 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				3D410C782A9D86DC004CE222 /* KodecoSwift */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		3D410C772A9D86DC004CE222 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3DE58FCC2AB84F1100F291DC /* crawler_jump.wav in Resources */,
+				3DE58FC72AB84F1100F291DC /* flyerdie.wav in Resources */,
+				3DE58FCA2AB84F1100F291DC /* bounce.wav in Resources */,
+				3D410C842A9D86DE004CE222 /* Preview Assets.xcassets in Resources */,
+				3DE58FCF2AB84F1100F291DC /* flyercloseeye.wav in Resources */,
+				3DE58FCE2AB84F1100F291DC /* BookTrailer.m4v in Resources */,
+				3DE58FC92AB84F1100F291DC /* button.wav in Resources */,
+				3DE58FCD2AB84F1100F291DC /* flyerattack.wav in Resources */,
+				3DE58FCB2AB84F1100F291DC /* crawler_die.wav in Resources */,
+				3D410CBF2A9D9B0F004CE222 /* Lobster-Regular.ttf in Resources */,
+				3D410C812A9D86DE004CE222 /* Assets.xcassets in Resources */,
+				3DE58FC82AB84F1100F291DC /* PocketCyclopsLvl1.mp3 in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		3D410C752A9D86DC004CE222 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3D410CAF2A9D919F004CE222 /* S3C4.swift in Sources */,
+				3D410C8D2A9D8770004CE222 /* S1C2.swift in Sources */,
+				3DC1A0E32A9DC9860060582C /* S6C5C6C7C8.swift in Sources */,
+				3DE58FD72AB853DE00F291DC /* S16C3.swift in Sources */,
+				3D33737B2AA9C36100091B18 /* S11C4.swift in Sources */,
+				3D410C972A9D89ED004CE222 /* S1C8.swift in Sources */,
+				3D410CC72A9DA159004CE222 /* S5C5C6.swift in Sources */,
+				3DB081042AA9D6C5002ED905 /* S11C10.swift in Sources */,
+				3DB081022AA9CE1F002ED905 /* S11C8C9.swift in Sources */,
+				3D410CB42A9D9242004CE222 /* S3C5.swift in Sources */,
+				3DC1A1082AA076230060582C /* S10C1C2C3C4C9.swift in Sources */,
+				3DB081102AA9F18E002ED905 /* S12C1C2C3C4C5C6.swift in Sources */,
+				3DC1A0E92A9DDD850060582C /* S6C9.swift in Sources */,
+				3DE58FD32AB84F6A00F291DC /* S16C1.swift in Sources */,
+				3D410C952A9D8988004CE222 /* S1C7.swift in Sources */,
+				3D410CAB2A9D90DA004CE222 /* S3C2.swift in Sources */,
+				3D410CB62A9D92DA004CE222 /* S3C6.swift in Sources */,
+				3D8AAE992AB43BB0002707D0 /* S15C7C8C9.swift in Sources */,
+				3DC1A0F62A9F0F990060582C /* S7C10.swift in Sources */,
+				3D32D4F12AA9AECB00448DDF /* Group1.swift in Sources */,
+				3D410CA92A9D903D004CE222 /* S3C1.swift in Sources */,
+				3D410CCD2A9DA384004CE222 /* S5C9.swift in Sources */,
+				3D410C992A9D8A19004CE222 /* S1C9.swift in Sources */,
+				3DB080FE2AA9C9C7002ED905 /* S11C5C6.swift in Sources */,
+				3DC1A0F02A9DF3010060582C /* S7C3C4C5.swift in Sources */,
+				3DC1A0E72A9DDBF30060582C /* S6C10.swift in Sources */,
+				3D32D4FB2AA9B95B00448DDF /* Group3.swift in Sources */,
+				3D410C7F2A9D86DC004CE222 /* ContentView.swift in Sources */,
+				3D410CA52A9D8FA2004CE222 /* S2C8.swift in Sources */,
+				3DC1A0DE2A9DC5130060582C /* S5C11.swift in Sources */,
+				3D410CA32A9D8F52004CE222 /* S2C7.swift in Sources */,
+				3D410CBD2A9D96BE004CE222 /* S4C1C2C3C4C5C6.swift in Sources */,
+				3D410CA72A9D8FD2004CE222 /* S2C9.swift in Sources */,
+				3D410CC92A9DA232004CE222 /* S5C7.swift in Sources */,
+				3D410CBA2A9D95D9004CE222 /* S3C8.swift in Sources */,
+				3D32D4F32AA9AEE000448DDF /* Group2.swift in Sources */,
+				3D8AAE9B2AB43DF5002707D0 /* S15C10.swift in Sources */,
+				3DC1A1032AA0444E0060582C /* S9C4C5C6.swift in Sources */,
+				3DB081002AA9CC76002ED905 /* S11C7.swift in Sources */,
+				3DE58FD92AB86CA800F291DC /* S16C4.swift in Sources */,
+				3D8AAE972AB43205002707D0 /* S15C5.swift in Sources */,
+				3D8AAE932AB42A78002707D0 /* S15C1C2C3C4C6.swift in Sources */,
+				3D410CCF2A9DA3FD004CE222 /* S5C10.swift in Sources */,
+				3D410CA12A9D8EED004CE222 /* S2C6.swift in Sources */,
+				3D410C8F2A9D8798004CE222 /* S1C3.swift in Sources */,
+				3DC1A1012AA040890060582C /* S9C1C2C3.swift in Sources */,
+				3D8AAE662AB2AAA4002707D0 /* S12C7C8C9.swift in Sources */,
+				3DC1A0EC2A9DE6BE0060582C /* S7C1C2.swift in Sources */,
+				3D8AAE772AB2DD2F002707D0 /* S12C10C11.swift in Sources */,
+				3D410CC52A9D9E94004CE222 /* S5C1C2C3C4.swift in Sources */,
+				3D410CC22A9D9CF7004CE222 /* S4C7C8C9.swift in Sources */,
+				3D410C8B2A9D871D004CE222 /* S1C1C4.swift in Sources */,
+				3D410CAD2A9D9147004CE222 /* S3C3.swift in Sources */,
+				3D410C932A9D8923004CE222 /* S1C6.swift in Sources */,
+				3D8AAE902AB40CC8002707D0 /* S14C10.swift in Sources */,
+				3DC1A0F92A9F525B0060582C /* S8C2C3C4C5C6C7C8.swift in Sources */,
+				3DC1A0F22A9EDA8B0060582C /* S7C6C7.swift in Sources */,
+				3D8AAE862AB32AD1002707D0 /* S14C1C2C3C4C5C6C7.swift in Sources */,
+				3D8AAE7F2AB302D4002707D0 /* S13C5C6C7.swift in Sources */,
+				3D410C9D2A9D8D9E004CE222 /* S2C3.swift in Sources */,
+				3DE267172AA1E6FE006588D5 /* S10C8.swift in Sources */,
+				3DC1A0F42A9EF0FD0060582C /* S7C8C9.swift in Sources */,
+				3D410C912A9D882D004CE222 /* S1C5.swift in Sources */,
+				3DC1A0E12A9DC6650060582C /* S6C1C2C3C4.swift in Sources */,
+				3D8AAE7D2AB2F7AE002707D0 /* S13C1C2C3C4.swift in Sources */,
+				3DE2671A2AA1EECF006588D5 /* S11C1C2.swift in Sources */,
+				3D410C9B2A9D8D3C004CE222 /* S2C1C2C5.swift in Sources */,
+				3D8AAE832AB32A1B002707D0 /* S13C10.swift in Sources */,
+				3D410CB82A9D952E004CE222 /* S3C7.swift in Sources */,
+				3D3373792AA9BF8600091B18 /* S11C3.swift in Sources */,
+				3DE267122AA1DCB0006588D5 /* S10C5C6C7.swift in Sources */,
+				3D8AAE8B2AB3FD0B002707D0 /* S14C8C9.swift in Sources */,
+				3DC1A1052AA06EFC0060582C /* S9C7C8C9C10.swift in Sources */,
+				3DC1A0FE2AA03C930060582C /* S8C9.swift in Sources */,
+				3D8AAE812AB31142002707D0 /* S13C8C9.swift in Sources */,
+				3D410C7D2A9D86DC004CE222 /* KodecoSwiftApp.swift in Sources */,
+				3D2540192AB44257007251AF /* S15C11C12C13.swift in Sources */,
+				3D410C9F2A9D8E30004CE222 /* S2C4.swift in Sources */,
+				3D410CCB2A9DA33C004CE222 /* S5C8.swift in Sources */,
+				3DE58FD52AB8524C00F291DC /* S16C2.swift in Sources */,
+				3DE58FDB2AB870EC00F291DC /* S16C5.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		3D410C852A9D86DE004CE222 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		3D410C862A9D86DE004CE222 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		3D410C882A9D86DE004CE222 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"KodecoSwift/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = KodecoSwift/Info.plist;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.1;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.genzhang.KodecoSwift;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		3D410C892A9D86DE004CE222 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"KodecoSwift/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = KodecoSwift/Info.plist;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.1;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.genzhang.KodecoSwift;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		3D410C742A9D86DC004CE222 /* Build configuration list for PBXProject "KodecoSwift" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3D410C852A9D86DE004CE222 /* Debug */,
+				3D410C862A9D86DE004CE222 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3D410C872A9D86DE004CE222 /* Build configuration list for PBXNativeTarget "KodecoSwift" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3D410C882A9D86DE004CE222 /* Debug */,
+				3D410C892A9D86DE004CE222 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		3DC1A0FA2AA030EE0060582C /* XCRemoteSwiftPackageReference "LookinServer" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/QMUI/LookinServer/";
+			requirement = {
+				branch = develop;
+				kind = branch;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		3DC1A0FB2AA030EE0060582C /* LookinServer */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 3DC1A0FA2AA030EE0060582C /* XCRemoteSwiftPackageReference "LookinServer" */;
+			productName = LookinServer;
+		};
+/* End XCSwiftPackageProductDependency section */
+	};
+	rootObject = 3D410C712A9D86DC004CE222 /* Project object */;
+}
